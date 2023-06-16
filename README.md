@@ -24,8 +24,11 @@
 
 ### Git Komutu ile Kurma
 `git clone https://github.com/menes0614/Datagrid-App.git` 
+
 `cd Datagrid-App`
+
 `npm install`
+
 `npm start`
 
 
