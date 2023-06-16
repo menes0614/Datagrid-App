@@ -11,7 +11,7 @@
 - Bootstrap 5.3.0
 - DevExtreme 22.2.4
 
-[![React](https://github.com/menes0614/Datagrid-App/assets/47030504/716c5ce2-e582-4dd8-beaf-bedd04d4766e)](https://react.dev/) [![Html](https://github.com/menes0614/Datagrid-App/assets/47030504/dc9d4be1-b10e-41a7-bf46-710607a11d1f)](https://html.spec.whatwg.org/) [![Css](https://github.com/menes0614/Datagrid-App/assets/47030504/3de778b5-5c50-4f05-8064-9b8b9a5f7528)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://github.com/menes0614/Datagrid-App/assets/47030504/1340791e-a884-486c-800e-e2a7c92d5a7e)](https://www.javascript.com/) [![Bootstrap](https://github.com/menes0614/Datagrid-App/assets/47030504/cce5d39d-ef3d-43eb-9ac4-09815c6c1c46)](https://getbootstrap.com/) [![DevExpress](https://github.com/menes0614/Datagrid-App/assets/47030504/bcd3ac99-e32b-4048-b790-fa1de994326d)](https://js.devexpress.com/Documentation/)
+[![React](https://github.com/menes0614/Datagrid-App/assets/47030504/716c5ce2-e582-4dd8-beaf-bedd04d4766e 'React')](https://react.dev/) [![Html](https://github.com/menes0614/Datagrid-App/assets/47030504/dc9d4be1-b10e-41a7-bf46-710607a11d1f)](https://html.spec.whatwg.org/) [![Css](https://github.com/menes0614/Datagrid-App/assets/47030504/3de778b5-5c50-4f05-8064-9b8b9a5f7528)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://github.com/menes0614/Datagrid-App/assets/47030504/1340791e-a884-486c-800e-e2a7c92d5a7e)](https://www.javascript.com/) [![Bootstrap](https://github.com/menes0614/Datagrid-App/assets/47030504/cce5d39d-ef3d-43eb-9ac4-09815c6c1c46)](https://getbootstrap.com/) [![DevExpress](https://github.com/menes0614/Datagrid-App/assets/47030504/bcd3ac99-e32b-4048-b790-fa1de994326d)](https://js.devexpress.com/Documentation/)
 
 
 ## Gereksinimler
