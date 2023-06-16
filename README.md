@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+WEb görünümü 
+![web](https://github.com/menes0614/Datagrid-Task/assets/47030504/d233575e-0e50-458f-8dec-7abbe66915a0)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
