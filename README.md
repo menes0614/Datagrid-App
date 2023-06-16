@@ -20,7 +20,13 @@
 
 ![node](https://github.com/menes0614/Datagrid-App/assets/47030504/dab7012b-f412-47f5-9e76-b2db53daab93) ![npm](https://github.com/menes0614/Datagrid-App/assets/47030504/ed6a55e8-d1ac-46b4-add1-9c6ab48e6d19)
 
+## Uygulamayı Nasıl Kullanabilirim?
 
+### Git Komutu ile Kurma
+`git clone https://github.com/menes0614/Datagrid-App.git` 
+`cd Datagrid-App`
+`npm install`
+`npm start`
 
 
 ### `npm start`
