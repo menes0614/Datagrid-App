@@ -1,0 +1,16 @@
+	Projeden anladığım kadarıyla, aslında bizlerden istenen hangi kütüphane olduğu farketmezsizin
+bir kütüphane ile çalışılacağı zaman (hiç kullanmadığım bir kütüphane olsa dahi) benim bu kütüphaneyi kullanabiliyor olmamı,
+o kütüphanenin dökümantasyonunu okuyup anlayabiliyor olmamı ve gerektiği yerde koduma entegre edebilme becerimi ölçüyor.
+
+	Aynı zamanda bu proje, genel olarak Frontend Development bilgi ve becerilerimizi ölçüyor.
+
+Projeyi Yaparken İzlediğim adımlar : 
+1. Figma üzerinden bize verilen tasarımı inceleyerek aklımda bir şablon oluşturdum.
+2. Diğer frameworklerden ziyade React ile daha önce çalıştığım için projede React Framework'ünü kullanmaya karar verdim.
+3. Visual Studio Code IDE'sini kullanarak React projesini oluşturdum.
+4. Projemde kullanacağım componentleri oluşturdum (Header ve DataTable).
+5. Header Componenti için Bootstrap kütüphanesini kullandım.
+6. DataTable Componenti için DevExtreme kütüphanesini kullandım.
+7. Verilerin bulunduğu dataList dosyamı data klasörüne, görselleri ise img klasöründe tuttum.
+8. Karmaşık kodların bulunduğunu düşündüğüm Header Componentine yorum satırları ekledim.
+9. Github'a projemi yükledim ve Readme dosyamı düzenledim.

@@ -1,0 +1,101 @@
+.dx-item.dx-toolbar-item.dx-toolbar-label {
+    visibility: hidden;
+}
+
+.dx-overlay-content {
+    background-color: #744BFC !important;
+
+}
+
+.dx-popup-normal {
+    background-color: white !important;
+}
+
+.dx-datagrid-filter-panel{
+    margin-top: 5px;
+    background-color: white;
+}
+
+.dx-icon-filter::before {
+    color: #744BFC;
+}
+
+.dx-item-content.dx-box-item-content.dx-box-flex.dx-box.dx-widget.dx-collection {
+    flex-direction: column !important;
+    justify-content: space-evenly !important;
+    display: inline-block !important;
+}
+
+.dx-layout-manager .dx-label-h-align.dx-flex-layout:not(.dx-field-item-label-align) {
+    margin-top: 20px;
+    padding: 0 0 0 0;
+}
+
+.dx-layout-manager .dx-label-h-align .dx-field-item-content {
+    flex-direction: row !important;
+}
+
+#grid tr:nth-child(even) { background-color: #EFF2FF;
+
+}
+
+.dx-datagrid-header-panel {
+    background-color: #EFF2FF;
+}
+
+.dx-toolbar-items-container {
+    background-color: #EFF2FF;
+}
+
+.dx-widget.dx-datagrid-pager.dx-pager.dx-light-mode {
+    background-color: #EFF2FF;
+}
+
+#dx-col-4 {
+    color: black;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+}
+
+#dx-col-5 {
+    color: black;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+}
+
+#dx-col-6 {
+    color: black;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+}
+
+.dx-toolbar-after {
+    position: relative;
+    left: -30px;
+    margin-top: 5px;
+
+}
+
+.dx-datagrid-filter-panel {
+    position: absolute;
+    top: 0px;
+    left: 170px;
+    border-radius: 10px;
+
+}
+
+.dx-row.dx-data-row.dx-column-lines {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+}
