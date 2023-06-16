@@ -1,7 +1,7 @@
 # Responsive Datagrid App Example
 
 WEb görünümü 
-![web](https://github.com/menes0614/Datagrid-Task/assets/47030504/d233575e-0e50-458f-8dec-7abbe66915a0)
+![web](https://github.com/menes0614/Datagrid-Task/assets/47030504/d233575e-0e50-458f-8dec-7abbe66915a0) ![mobil](https://github.com/menes0614/Datagrid-App/assets/47030504/b71a7a9e-5b51-4702-a266-545e304c459c)
 
 
 ## Available Scripts
