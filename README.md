@@ -4,7 +4,7 @@
 
 ## Kullanılan Teknolojiler
 
-[![React](https://github.com/menes0614/Datagrid-App/assets/47030504/861e20c5-56e9-4dd1-a391-782498021588)][1] 
+[![React](https://github.com/menes0614/Datagrid-App/assets/47030504/716c5ce2-e582-4dd8-beaf-bedd04d4766e)][1]
 
 ### `npm start`
 
