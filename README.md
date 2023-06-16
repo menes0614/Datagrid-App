@@ -1,10 +1,7 @@
 # Responsive Datagrid App Example
 
 ## Web
-![web](https://github.com/menes0614/Datagrid-Task/assets/47030504/d233575e-0e50-458f-8dec-7abbe66915a0)
-
-## Mobil
-![mobil 1](https://github.com/menes0614/Datagrid-App/assets/47030504/62a900be-f6b1-4382-9585-5f3af373d6e1)
+![responsive](https://github.com/menes0614/Datagrid-App/assets/47030504/ce6e5d00-69cd-4f2c-b897-eab7d7830c23)
 
 
 
