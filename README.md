@@ -39,6 +39,5 @@ Komut satırında dosyaların bulunduğu dizine geldikten sonra yapmanız gereke
 
 2. `npm start`
 
-##############################################
-                                              By [Enes Ergül] (https://www.linkedin.com/in/enesergul06/)
+By [Enes Ergül](https://www.linkedin.com/in/enesergul06/)
                                                        
