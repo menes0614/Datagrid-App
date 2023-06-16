@@ -23,16 +23,21 @@
 ## Uygulamayı Nasıl Kullanabilirim?
 
 ### Git Komutu ile Kurma
-`git clone https://github.com/menes0614/Datagrid-App.git` 
+1.`git clone https://github.com/menes0614/Datagrid-App.git` 
 
-`cd Datagrid-App`
+2.`cd Datagrid-App`
 
-`npm install`
+3.`npm install`
 
-`npm start`
+4.`npm start`
 
 
-### `npm start`
+### İndirip Kurma
+
+Komut satırında dosyaların bulunduğu dizine geldikten sonra yapmanız gereken :
+1. `npm install`
+
+2. `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
