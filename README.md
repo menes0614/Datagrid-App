@@ -1,15 +1,10 @@
 # 📝Responsive Datagrid App Example
 
-## Web
 ![responsive](https://github.com/menes0614/Datagrid-App/assets/47030504/ce6e5d00-69cd-4f2c-b897-eab7d7830c23)
 
+## Kullanılan Teknolojiler
 
-
-
-
-## Available Scripts
-
-In the project directory, you can run:
+[![React](https://github.com/menes0614/Datagrid-App/assets/47030504/861e20c5-56e9-4dd1-a391-782498021588)][1] 
 
 ### `npm start`
 
