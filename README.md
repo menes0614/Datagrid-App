@@ -11,7 +11,7 @@
 - Bootstrap 5.3.0
 - DevExtreme 22.2.4
 
-![React](https://github.com/menes0614/Datagrid-App/assets/47030504/716c5ce2-e582-4dd8-beaf-bedd04d4766e) ![Html](https://github.com/menes0614/Datagrid-App/assets/47030504/dc9d4be1-b10e-41a7-bf46-710607a11d1f) ![Css](https://github.com/menes0614/Datagrid-App/assets/47030504/3de778b5-5c50-4f05-8064-9b8b9a5f7528) ![JavaScript](https://github.com/menes0614/Datagrid-App/assets/47030504/1340791e-a884-486c-800e-e2a7c92d5a7e) ![Bootstrap](https://github.com/menes0614/Datagrid-App/assets/47030504/cce5d39d-ef3d-43eb-9ac4-09815c6c1c46) ![DevExtreme](https://github.com/menes0614/Datagrid-App/assets/47030504/49d6a8ba-f00b-46f7-a8d7-2fc3ae899582)
+[![React](https://github.com/menes0614/Datagrid-App/assets/47030504/716c5ce2-e582-4dd8-beaf-bedd04d4766e)](https://react.dev/) ![Html](https://github.com/menes0614/Datagrid-App/assets/47030504/dc9d4be1-b10e-41a7-bf46-710607a11d1f) ![Css](https://github.com/menes0614/Datagrid-App/assets/47030504/3de778b5-5c50-4f05-8064-9b8b9a5f7528) ![JavaScript](https://github.com/menes0614/Datagrid-App/assets/47030504/1340791e-a884-486c-800e-e2a7c92d5a7e) ![Bootstrap](https://github.com/menes0614/Datagrid-App/assets/47030504/cce5d39d-ef3d-43eb-9ac4-09815c6c1c46) ![DevExtreme](https://github.com/menes0614/Datagrid-App/assets/47030504/49d6a8ba-f00b-46f7-a8d7-2fc3ae899582)
 
 ### `npm start`
 
